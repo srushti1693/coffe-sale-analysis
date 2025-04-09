@@ -13,3 +13,4 @@ Design the layout of your financial analysis dashboard. This may include multipl
 Use Power BI's drag-and-drop interface to add visualizations and customize them as needed.
 Incorporate slicers, filters, and drill-down capabilities for interactivity.
 By following these steps, you can create a comprehensive financial analysis dashboard using Power BI, providing valuable insights to drive business decisions and improve sales  performance
+data sit : https://docs.google.com/spreadsheets/...
