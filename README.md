@@ -14,3 +14,4 @@ Use Power BI's drag-and-drop interface to add visualizations and customize them 
 Incorporate slicers, filters, and drill-down capabilities for interactivity.
 By following these steps, you can create a comprehensive financial analysis dashboard using Power BI, providing valuable insights to drive business decisions and improve sales  performance
 data sit : https://docs.google.com/spreadsheets/...
+https://github.com/srushti1693/coffe-sale-analysis/blob/main/Coffee%20Shop%20Sales.xlsx
